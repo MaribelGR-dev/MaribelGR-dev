@@ -1,14 +1,13 @@
-# 🌟 ¡Hola! Soy Mari <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="80">
+# 🌟 ¡Hola! Soy Maribel <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="80">
 <br><br>
 
-
-🚀 Apasionada por la inteligencia artificial y el aprendizaje continuo  
+Todos los días busco aprender algo nuevo
 
 ---
 
 ## 💪 En qué estoy ahora
 - Aprendiendo Python ☕🐍
-- Metida de lleno en un bootcamp de IA en Factoría F5, rodeada de gente increíble y con muchas ganas de crecer 🚀
+- Retándome en un bootcamp de IA en Factoría F5, rodeada de gente increíble y con muchas ganas de crecer 🚀
 - Con un enfoque alegre y motivado en todo lo que hago
 
 ---
