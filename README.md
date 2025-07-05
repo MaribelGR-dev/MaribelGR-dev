@@ -1,17 +1,17 @@
-# 🌟 ¡Hola! Soy Maribel <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
+#  ¡Hola! Soy Maribel <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
 <br><br>
 Todos los días me gusta aprender algo nuevo
 
 ---
 
-## 💪 En qué estoy ahora
+## En qué estoy ahora
 - Aprendiendo Python ☕🐍
 - Retándome en un bootcamp de IA en Factoría F5, rodeada de gente increíble y con muchas ganas de crecer 🚀
 - Con un enfoque alegre y motivado en todo lo que hago
 
 ---
 
-## 🌈 Frase favorita
+##  Frase favorita
 
 "El futuro pertenece a quienes creen en la belleza de sus sueños." 
 Eleanor Roosevelt
